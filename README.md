@@ -1,5 +1,4 @@
-# scanderbeg
-Intelligent file organizer for Windows. Sorts by context, not just extension. Built for German digital life.
+
 [README.md](https://github.com/user-attachments/files/27459685/README.md)
 # Scanderbeg
 ### Intelligent File Organizer for Windows · v8 Smart Scan
